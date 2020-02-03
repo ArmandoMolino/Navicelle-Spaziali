@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Languages>
+    <Language id="ita">
+        <title>Navicelle Spaziali</title>
+        <startButton>Inizio</startButton>
+        <optionButton>Opzioni</optionButton>
+        <languageLabel>Lingua</languageLabel>
+        <soundLabel>Suono</soundLabel>
+        <saveButton>Salva</saveButton>
+        <cancelButton>Annulla</cancelButton>
+        <yes>si</yes>
+        <no>no</no>
+    </Language>
+
+    <Language id="eng">
+        <title>SpaceShips</title>
+        <startButton>Start</startButton>
+        <optionButton>Options</optionButton>
+        <languageLabel>Language</languageLabel>
+        <soundLabel>Sound</soundLabel>
+        <saveButton>Save</saveButton>
+        <cancelButton>Cancel</cancelButton>
+        <yes>yes</yes>
+        <no>no</no>
+    </Language>
+
+    <Language id="fr">
+        <title>Vaisseaux Spatiaux</title>
+        <startButton>Commence</startButton>
+        <optionButton>Options</optionButton>
+        <languageLabel>Langue</languageLabel>
+        <soundLabel>Son</soundLabel>
+        <saveButton>Sauver</saveButton>
+        <cancelButton>Annuler</cancelButton>
+        <yes>oui</yes>
+        <no>non</no>
+    </Language>
+
+    <Language id="spn">
+        <title>Naves espaciales</title>
+        <startButton>Comienzo</startButton>
+        <optionButton>Opciones</optionButton>
+        <languageLabel>idioma</languageLabel>
+        <soundLabel>Sonido</soundLabel>
+        <saveButton>Aalvar</saveButton>
+        <cancelButton>Anular</cancelButton>
+        <yes>si</yes>
+        <no>no</no>
+    </Language>
+
+</Languages>

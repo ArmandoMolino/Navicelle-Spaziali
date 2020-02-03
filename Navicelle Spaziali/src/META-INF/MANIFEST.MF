@@ -1,0 +1,5 @@
+Application-Name: Navicelle Spaziali
+Created-By: Armando Molino
+Manifest-Version: 1.0
+Main-Class: Screen.WelcomeScreen
+
